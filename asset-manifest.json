@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/top-gym-app/static/css/main.1eb41034.chunk.css",
+    "main.js": "/top-gym-app/static/js/main.629c8de3.chunk.js",
+    "main.js.map": "/top-gym-app/static/js/main.629c8de3.chunk.js.map",
+    "runtime-main.js": "/top-gym-app/static/js/runtime-main.60608162.js",
+    "runtime-main.js.map": "/top-gym-app/static/js/runtime-main.60608162.js.map",
+    "static/css/2.ae1daa95.chunk.css": "/top-gym-app/static/css/2.ae1daa95.chunk.css",
+    "static/js/2.00a9e104.chunk.js": "/top-gym-app/static/js/2.00a9e104.chunk.js",
+    "static/js/2.00a9e104.chunk.js.map": "/top-gym-app/static/js/2.00a9e104.chunk.js.map",
+    "static/js/3.bc4ced79.chunk.js": "/top-gym-app/static/js/3.bc4ced79.chunk.js",
+    "static/js/3.bc4ced79.chunk.js.map": "/top-gym-app/static/js/3.bc4ced79.chunk.js.map",
+    "index.html": "/top-gym-app/index.html",
+    "static/css/2.ae1daa95.chunk.css.map": "/top-gym-app/static/css/2.ae1daa95.chunk.css.map",
+    "static/css/main.1eb41034.chunk.css.map": "/top-gym-app/static/css/main.1eb41034.chunk.css.map",
+    "static/js/2.00a9e104.chunk.js.LICENSE.txt": "/top-gym-app/static/js/2.00a9e104.chunk.js.LICENSE.txt",
+    "static/media/02.3f4f2a76.jpg": "/top-gym-app/static/media/02.3f4f2a76.jpg",
+    "static/media/03.1f32287d.jpg": "/top-gym-app/static/media/03.1f32287d.jpg",
+    "static/media/04.bb613a48.jpg": "/top-gym-app/static/media/04.bb613a48.jpg",
+    "static/media/05.925e8f37.jpg": "/top-gym-app/static/media/05.925e8f37.jpg",
+    "static/media/06.696ce0bd.jpg": "/top-gym-app/static/media/06.696ce0bd.jpg",
+    "static/media/07.6fcf32a2.jpg": "/top-gym-app/static/media/07.6fcf32a2.jpg",
+    "static/media/contact.d4beb719.jpg": "/top-gym-app/static/media/contact.d4beb719.jpg",
+    "static/media/hero-1.a82ae439.jpg": "/top-gym-app/static/media/hero-1.a82ae439.jpg",
+    "static/media/motivation.3cde6d54.mp4": "/top-gym-app/static/media/motivation.3cde6d54.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60608162.js",
+    "static/css/2.ae1daa95.chunk.css",
+    "static/js/2.00a9e104.chunk.js",
+    "static/css/main.1eb41034.chunk.css",
+    "static/js/main.629c8de3.chunk.js"
+  ]
+}
