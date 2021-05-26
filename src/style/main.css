@@ -150,22 +150,13 @@ a {
 }
 
 .nav-section .info {
-  margin-top: 25%;
-  padding: 0 20px;
-}
-
-@media screen and (max-width: 576px) {
-  .nav-section .info {
-    padding-left: 25px;
-    margin-top: 121%;
-  }
-}
-
-@media screen and (min-width: 576px) and (max-width: 770px) {
-  .nav-section .info {
-    padding-left: 90px;
-    margin-top: 50%;
-  }
+  width: 100%;
+  padding: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
 }
 
 .nav-section .info h1 {
@@ -176,7 +167,7 @@ a {
 
 @media screen and (max-width: 576px) {
   .nav-section .info h1 {
-    font-size: 25px;
+    font-size: 30px;
   }
 }
 
@@ -221,7 +212,7 @@ a {
   .nav-section .info button {
     display: block;
     margin-bottom: 10px;
-    font-size: 13px;
+    font-size: 15px;
     padding: 5px 10px;
   }
   .nav-section .info button:last-child {
@@ -232,7 +223,7 @@ a {
 @media screen and (min-width: 650px) and (max-width: 914px) {
   .nav-section .info button {
     margin-bottom: 10px;
-    font-size: 13px;
+    font-size: 15px;
     padding: 5px 10px;
   }
   .nav-section .info button:last-child {

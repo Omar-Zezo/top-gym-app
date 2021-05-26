@@ -128,22 +128,18 @@ $gradientColor: -webkit-linear-gradient(left, $mainColor, #f9b208);
     }
   }
   .info {
-    margin-top: 25%;
-    padding: 0 20px;
-    @media screen and (max-width : 576px){
-      padding-left: 25px;
-      margin-top: 121%;
-    }
-    @media screen and (min-width : 576px) and (max-width : 770px){
-      padding-left: 90px;
-      margin-top: 50%;
-    }
+    width: 100%;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
     h1 {
       color: #fff;
       text-transform: capitalize;
       font-size: 60px;
       @media screen and (max-width : 576px){
-        font-size: 25px;
+        font-size: 30px;
       }
       @media screen and (min-width : 576px) and (max-width : 914px){
         font-size: 40px;
@@ -177,7 +173,7 @@ $gradientColor: -webkit-linear-gradient(left, $mainColor, #f9b208);
       @media screen and (max-width : 650px){
         display: block;
         margin-bottom: 10px;
-        font-size: 13px;
+        font-size: 15px;
         padding: 5px 10px;
         &:last-child{
           margin: 0;
@@ -185,7 +181,7 @@ $gradientColor: -webkit-linear-gradient(left, $mainColor, #f9b208);
       }
       @media screen and (min-width : 650px) and (max-width : 914px){
         margin-bottom: 10px;
-        font-size: 13px;
+        font-size: 15px;
         padding: 5px 10px;
         &:last-child{
           margin: 0;
