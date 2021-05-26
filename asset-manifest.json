@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/top-gym-app/static/css/main.00646c3a.chunk.css",
+    "main.css": "/top-gym-app/static/css/main.d429e282.chunk.css",
     "main.js": "/top-gym-app/static/js/main.629c8de3.chunk.js",
     "main.js.map": "/top-gym-app/static/js/main.629c8de3.chunk.js.map",
     "runtime-main.js": "/top-gym-app/static/js/runtime-main.60608162.js",
@@ -12,7 +12,7 @@
     "static/js/3.bc4ced79.chunk.js.map": "/top-gym-app/static/js/3.bc4ced79.chunk.js.map",
     "index.html": "/top-gym-app/index.html",
     "static/css/2.ae1daa95.chunk.css.map": "/top-gym-app/static/css/2.ae1daa95.chunk.css.map",
-    "static/css/main.00646c3a.chunk.css.map": "/top-gym-app/static/css/main.00646c3a.chunk.css.map",
+    "static/css/main.d429e282.chunk.css.map": "/top-gym-app/static/css/main.d429e282.chunk.css.map",
     "static/js/2.00a9e104.chunk.js.LICENSE.txt": "/top-gym-app/static/js/2.00a9e104.chunk.js.LICENSE.txt",
     "static/media/02.3f4f2a76.jpg": "/top-gym-app/static/media/02.3f4f2a76.jpg",
     "static/media/03.1f32287d.jpg": "/top-gym-app/static/media/03.1f32287d.jpg",
@@ -28,7 +28,7 @@
     "static/js/runtime-main.60608162.js",
     "static/css/2.ae1daa95.chunk.css",
     "static/js/2.00a9e104.chunk.js",
-    "static/css/main.00646c3a.chunk.css",
+    "static/css/main.d429e282.chunk.css",
     "static/js/main.629c8de3.chunk.js"
   ]
 }
