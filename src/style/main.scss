@@ -134,6 +134,9 @@ $gradientColor: -webkit-linear-gradient(left, $mainColor, #f9b208);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
+    @media screen and (min-width : 650px){
+      padding: 30px;
+    }
     h1 {
       color: #fff;
       text-transform: capitalize;

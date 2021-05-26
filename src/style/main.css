@@ -159,6 +159,12 @@ a {
           transform: translate(-50%, -50%);
 }
 
+@media screen and (min-width: 650px) {
+  .nav-section .info {
+    padding: 30px;
+  }
+}
+
 .nav-section .info h1 {
   color: #fff;
   text-transform: capitalize;
